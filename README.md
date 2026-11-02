@@ -3,7 +3,7 @@
 
 O CI4 SQLite Logger é uma biblioteca de logging de alta integridade para CodeIgniter 4. Diferente dos logs tradicionais em texto, ele armazena eventos em um banco de dados SQLite rotativo, utilizando uma Corrente de Custódia (Hash Chain) para garantir que os registros não sejam alterados ou deletados sem detecção.
 
-[![CodeFactor](https://www.codefactor.io/repository/github/meusistemabr/ci4-sqlite-logger/badge/main)](https://www.codefactor.io/repository/github/meusistemabr/ci4-sqlite-logger/overview/main)
+[![CodeFactor](https://www.codefactor.io/repository/github/zerohextech/ci4-sqlite-logger/badge)](https://www.codefactor.io/repository/github/zerohextech/ci4-sqlite-logger)
 
 ## ✨ Recursos Principais
 
@@ -25,7 +25,7 @@ A forma direta é recomendada para auditoria de negócio, porque o terceiro par�
 Instale a lib via Composer:
 
 ```bash
-  composer require meusistemabr/ci4-sqlite-logger
+  composer require zerohextech/ci4-sqlite-logger
 ```
 
 Depois de atualizar a lib localmente, rode:
@@ -198,12 +198,12 @@ Para produção:
 
 ## Apoiado e mantido por
 
-<img src="https://cdn-a1-br-sl.meusistema.com.br/imagens/logo_ms.png" alt="MeuSistema sistemas online personalizados" style="width:150px;float:left;padding-left:0px;margin-right:20px;">
+<img src="https://grtrb7ozq669.objectstorage.sa-saopaulo-1.oci.customer-oci.com/p/TzrQVyyn0oGzTg4kc7Rw43ucOOHNZVJiAqJgtwV0Ioe0vBUL4w3UMA6OsoHU39eY/n/grtrb7ozq669/b/cdn-sl-sp-v1/o/assets_static%2F0x_zerohex_brc_allfd_0xAF110A.png" alt="ZERO HEX desenvolvimento de sistemas" style="width:150px;float:left;padding-left:0px;margin-right:20px;">
 <div style="padding-left:50px;">
 <p>
-<strong>Meu Sistema - Sistemas online personalizados</strong><br>
-Acesse: <a href="https://meusistema.com.br" target="_blank" title="Sistemas online personalizados">https://meusistema.com.br</a><br>
-Fale consoco em: contato[at]meusistema.com.br
+<strong>Zero Hex - Sistemas e Forense</strong><br>
+Acesse: <a href="https://zerohex.com.br" target="_blank" title="Sistemas online personalizados">https://zerohex.com.br</a><br>
+Fale consoco em: contato[at]zerohex.com.br
 </p>
 </div>
 
